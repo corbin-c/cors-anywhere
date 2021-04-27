@@ -28,7 +28,9 @@
     "server.js"
   ],
   "dependencies": {
+    "form-data": "^2.1.4",
     "http-proxy": "1.11.1",
+    "node-fetch": "^2.6.1",
     "proxy-from-env": "0.0.1"
   },
   "devDependencies": {
